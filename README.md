@@ -13,7 +13,7 @@
 
 ---
 
-## Sobre mí
+## 🐾 Sobre mí
 
 Soy desarrolladora con orientación Backend y me apasiona la tecnología y el desarrollo de software.
 
@@ -49,7 +49,7 @@ Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o b
 
 - 🇨🇳 Chino mandarín - En aprendizaje
 
-## 🐾 Enfoque de desarrollo
+## Enfoque de desarrollo
 
 - ⚙️ Desarrollo de software.
 - 💻 Creación de aplicaciones, herramientas y sistemas.
