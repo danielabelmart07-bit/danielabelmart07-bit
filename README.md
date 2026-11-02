@@ -12,68 +12,7 @@
    [ MEOW.exe ejecutándose... ]
 ```
 
-*Código, café y gatos. Siempre hay algo que depurar.* ☕🐾<!--
-**Frameworks & Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-**Tools & Environment**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-## 📂 Featured Projects
-
-### 🧁 GastroCtrl
-**Django · Python · SQLite · HTML · CSS**
-
-Sistema de gestión para panaderías, cafeterías y pastelerías.
-
-- Gestión de productos y categorías.
-- Administración de pedidos.
-- Control de inventario en desarrollo.
-- Panel de administración.
-- Funcionalidades para clientes y compras.
-
-*Personal project — In development.*
-
-## 🚀 Development Focus
-
-- 🐈 Backend development and web application architecture.
-- 🗄️ Database design and data management.
-- ⚙️ Business logic and CRUD operations.
-- 🔌 REST APIs and integrations.
-- 🤖 Process automation.
-- 🧪 Testing, debugging and code quality.
-
-## 🌎 Languages
-
-<p>
-  🇦🇷 <b>Spanish</b> — Native<br/>
-  🇨🇳 <b>Mandarin Chinese</b> — Learning
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my little corner of GitHub!</b>
-  <br/>
-  🐾 Made with Python, curiosity & lots of cats.
-  <br/><br/>
-  <code>meow@daniela:~$ exit 0</code>
-</p>
-
+*Código, café y gatos. Siempre hay algo que depurar.* ☕🐾
 
 </div>
 
