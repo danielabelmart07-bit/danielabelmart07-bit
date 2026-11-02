@@ -43,7 +43,7 @@ Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o b
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌎 Idiomas
+## Idiomas
 
 - 🇦🇷 Español - Nativo
 
