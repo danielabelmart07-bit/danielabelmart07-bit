@@ -1,6 +1,6 @@
 # 🐈 ¡Hola! Soy Daniela
 
-### 💻 Backend Developer in Progress · 🇦🇷 Argentina
+### 💻 Desarrolladora Backend · 🇦🇷 Argentina
 
 ```text
  ／l、
@@ -17,9 +17,11 @@
 
 Soy desarrolladora enfocada en Backend y me apasiona la tecnología y el desarrollo de software.
 
-Me gusta aprender creando proyectos, resolver problemas y explorar nuevas tecnologías. Actualmente desarrollo proyectos que combinan lógica, bases de datos y funcionalidades pensadas para resolver problemas reales.
+Trabajo desarrollando proyectos que combinan lógica, bases de datos y funcionalidades pensadas para resolver problemas reales.
 
-Mi objetivo es seguir creciendo como desarrolladora y construir soluciones útiles que puedan aportar valor a las personas.
+Me interesa especialmente el desarrollo de aplicaciones web, las APIs, la automatización de procesos y la construcción de herramientas útiles.
+
+Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o buscando inspiración para mi próximo proyecto. 🐈
 
 ## Tecnologías y herramientas
 
@@ -43,15 +45,16 @@ Mi objetivo es seguir creciendo como desarrolladora y construir soluciones útil
 
 ## Idiomas
 
-- :flag_ar: Español - Nativo
+- 🇦🇷 Español - Nativo
 
-- :cn: Chino mandarín - En aprendizaje
+- 🇨🇳 Chino mandarín - En aprendizaje
 
 ## 🌱 Actualmente
 
-- 🐾 Profundizando mis conocimientos en Python y Django.
-- 🐾 Aprendiendo sobre APIs REST y desarrollo backend.
-- 🐾 Trabajando en proyectos personales para mejorar mis habilidades.
+- 🐾 Desarrollando proyectos personales enfocados en Backend.
+- 🐾 Construyendo aplicaciones web con Python y Django.
+- 🐾 Trabajando con bases de datos, operaciones CRUD y gestión de información.
+- 🐾 Explorando APIs REST e integraciones.
 
 ---
 
