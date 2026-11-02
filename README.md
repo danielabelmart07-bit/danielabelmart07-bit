@@ -1,4 +1,4 @@
-# 😺 ¡Hola! Soy Daniela
+# 🐱 ¡Hola! Soy Daniela
 
 ### 💻 Desarrolladora Backend · 🇦🇷 Argentina
 
