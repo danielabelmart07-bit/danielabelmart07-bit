@@ -51,13 +51,13 @@ Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o b
 
 ## 🐾 Enfoque de desarrollo
 
-- ⚙️ Desarrollo de software enfocado en la funcionalidad y la resolución de problemas.
-- 💡 Creación de aplicaciones, herramientas y sistemas útiles.
-- 🤖 Automatización de tareas y procesos repetitivos.
-- 🗄️ Lógica de negocio, procesamiento y gestión de datos.
-- 🔌 Desarrollo de APIs e integración de servicios.
-- 🐍 Desarrollo Backend con Python y Django.
-- 🧩 Diseño y desarrollo de soluciones tecnológicas.
+## 🐾 Enfoque de desarrollo
+
+- ⚙️ Desarrollo de software.
+- 💻 Creación de aplicaciones, herramientas y sistemas.
+- 🤖 Automatización de tareas y procesos.
+- 🗄️ Gestión y procesamiento de datos.
+- 🐍 Backend con Python y Django.
 
 ---
 
