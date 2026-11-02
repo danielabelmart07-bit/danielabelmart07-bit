@@ -1,36 +1,38 @@
-# 🐈 Daniela | Backend Developer
+<!--
+  Daniela's Cat Terminal 🐈‍⬛
+  Theme: Pixel art / Dark purple / Black
+-->
 
 <p align="center">
-  <i>Building things with code, one paw at a time. 🐾</i>
+  <img src="assets/cat-banner.png" width="100%" alt="Daniela's Cat Terminal"/>
 </p>
 
-```text
-╭──────────────────────────────────────────────╮
-│  daniela@dev-corner:~$ ./welcome.sh           │
-│                                              │
-│              /\_/\\                           │
-│             ( o.o )                          │
-│              > ^ <                           │
-│                                              │
-│       ┌──────────────────────────┐           │
-│       │  MEOW SYSTEM: ONLINE     │           │
-│       │  Coding mode: ACTIVE     │           │
-│       │  Coffee: REQUIRED        │           │
-│       └──────────────────────────┘           │
-│                                              │
-│  Hello, human! Welcome to my GitHub. 🐾      │
-╰──────────────────────────────────────────────╯
-```
+<h1 align="center">🐈‍⬛ Daniela's Dev Corner</h1>
 
-## 🌸 About Me
+<p align="center">
+  <b>Backend Developer · Python & Django</b><br/>
+  Argentina 🇦🇷
+</p>
 
-¡Hola! Soy Daniela, desarrolladora enfocada en Backend, con especial interés en Python y Django.
+<p align="center">
+  <i>Building things with code, one paw at a time.</i>
+  <br/>
+  ⋆｡°✩ 🐾 ✩°｡⋆
+</p>
 
-Me gusta diseñar y desarrollar aplicaciones web, trabajar con bases de datos y transformar necesidades reales en soluciones de software.
+---
 
-Disfruto especialmente la lógica de programación, la resolución de problemas y la construcción de proyectos que combinan funcionalidad, organización y buenas prácticas.
+## 🐾 About Me
 
-## 🧶 Tech Stack
+¡Hola! Soy Daniela, desarrolladora enfocada en Backend, apasionada por la tecnología y la creación de software.
+
+Me gusta diseñar y desarrollar aplicaciones web, trabajar con bases de datos y transformar necesidades reales en soluciones funcionales.
+
+Disfruto especialmente la lógica de programación, la resolución de problemas y el desarrollo de proyectos que combinan funcionalidad, organización y buenas prácticas.
+
+Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o buscando inspiración para algún proyecto. 🐈
+
+## 💜 Tech Stack
 
 **Languages**
 
@@ -56,36 +58,47 @@ Disfruto especialmente la lógica de programación, la resolución de problemas 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-## 🐾 Projects & Development
+## 📂 Featured Projects
 
-Currently working on personal software projects, with a focus on:
+### 🧁 GastroCtrl
+**Django · Python · SQLite · HTML · CSS**
+
+Sistema de gestión para panaderías, cafeterías y pastelerías.
+
+- Gestión de productos y categorías.
+- Administración de pedidos.
+- Control de inventario en desarrollo.
+- Panel de administración.
+- Funcionalidades para clientes y compras.
+
+*Personal project — In development.*
+
+## 🚀 Development Focus
 
 - 🐈 Backend development and web application architecture.
-- 🗃️ Database design and data management.
-- ⚙️ CRUD operations, business logic and application functionality.
-- 📦 Inventory, product and order management systems.
-- 🔌 REST APIs, integrations and process automation.
+- 🗄️ Database design and data management.
+- ⚙️ Business logic and CRUD operations.
+- 🔌 REST APIs and integrations.
+- 🤖 Process automation.
 - 🧪 Testing, debugging and code quality.
 
-## 🌍 Languages
+## 🌎 Languages
 
-- 🇦🇷 Spanish — Native
-- 🇨🇳 Mandarin Chinese — Learning
+<p>
+  🇦🇷 <b>Spanish</b> — Native<br/>
+  🇨🇳 <b>Mandarin Chinese</b> — Learning
+</p>
 
 ---
 
 <p align="center">
-  <i>Thanks for stopping by!</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=100&section=footer"/>
 </p>
 
-```text
-       /\_/\
-      ( ^.^ )  See you in the next commit!
-       > ♡ <
-      /|   |\
-     (_|   |_)
-```
-
 <p align="center">
-  🐈‍⬛ <b>Powered by Python, curiosity & cats.</b> 🐈
+  <b>Thanks for visiting my little corner of GitHub!</b>
+  <br/>
+  🐾 Made with Python, curiosity & lots of cats.
+  <br/><br/>
+  <code>meow@daniela:~$ exit 0</code>
 </p>
