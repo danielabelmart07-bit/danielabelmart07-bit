@@ -15,9 +15,9 @@
 
 ## 🌷 Sobre mí
 
-¡Hola! Soy estudiante de programación y me apasiona la tecnología y el desarrollo de software.
+Soy desarrolladora enfocada en Backend y me apasiona la tecnología y el desarrollo de software.
 
-Actualmente estoy enfocándome en el desarrollo **Backend con Python y Django**. Me gusta aprender creando proyectos, resolver problemas y explorar nuevas tecnologías.
+Me gusta aprender creando proyectos, resolver problemas y explorar nuevas tecnologías. Actualmente desarrollo proyectos que combinan lógica, bases de datos y funcionalidades pensadas para resolver problemas reales.
 
 Mi objetivo es seguir creciendo como desarrolladora y construir soluciones útiles que puedan aportar valor a las personas.
 
@@ -56,7 +56,7 @@ Mi objetivo es seguir creciendo como desarrolladora y construir soluciones útil
 
 ```text
  /\_/\
-( o.o )  Thanks for visiting!
+( o.o )  ¡Gracias por tu visita!
  > ^ <
 ```
 
