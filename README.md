@@ -1,47 +1,18 @@
-<!--
-  Daniela's Cat Terminal 🐈‍⬛
-  Theme: Pixel art / Dark purple / Black
--->
+# 🐈 El rincón de Daniela
 
-<p align="center">
-  <img src="assets/cat-banner.png" width="100%" alt="Daniela's Cat Terminal"/>
-</p>
+### Desarrolladora Backend · Python & Django · Argentina 🇦🇷
 
-<h1 align="center">🐈‍⬛ Daniela's Dev Corner</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend Developer · Python & Django</b><br/>
-  Argentina 🇦🇷
-</p>
+```text
+ /\_/\
+( o.o )   $ sudo make_world_better
+ > ^ <
 
-<p align="center">
-  <i>Building things with code, one paw at a time.</i>
-  <br/>
-  ⋆｡°✩ 🐾 ✩°｡⋆
-</p>
+   [ MEOW.exe ejecutándose... ]
+```
 
----
-
-## 🐾 About Me
-
-¡Hola! Soy Daniela, desarrolladora enfocada en Backend, apasionada por la tecnología y la creación de software.
-
-Me gusta diseñar y desarrollar aplicaciones web, trabajar con bases de datos y transformar necesidades reales en soluciones funcionales.
-
-Disfruto especialmente la lógica de programación, la resolución de problemas y el desarrollo de proyectos que combinan funcionalidad, organización y buenas prácticas.
-
-Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o buscando inspiración para algún proyecto. 🐈
-
-## 💜 Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
+*Código, café y gatos. Siempre hay algo que depurar.* ☕🐾<!--
 **Frameworks & Databases**
 
 <p>
@@ -102,3 +73,73 @@ Sistema de gestión para panaderías, cafeterías y pastelerías.
   <br/><br/>
   <code>meow@daniela:~$ exit 0</code>
 </p>
+
+
+</div>
+
+---
+
+## 🐾 Sobre mí
+
+¡Hola! Soy Daniela, desarrolladora enfocada en Backend y apasionada por crear soluciones mediante código.
+
+Trabajo principalmente con **Python y Django**, desarrollando proyectos que combinan lógica, bases de datos y funcionalidades pensadas para resolver problemas reales.
+
+Me interesa especialmente el desarrollo de aplicaciones web, las APIs, la automatización de procesos y la construcción de herramientas útiles.
+
+Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o buscando inspiración para mi próximo proyecto. 🐈
+
+## 💻 Tecnologías
+
+### 🐱 Lenguajes
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🧶 Frameworks y bases de datos
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🖥️ Herramientas de desarrollo
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+## 🚀 En qué estoy trabajando
+
+- 🐈 Desarrollando proyectos personales enfocados en Backend.
+- ⚙️ Construyendo aplicaciones web con Python y Django.
+- 🗄️ Trabajando con bases de datos, operaciones CRUD y gestión de información.
+- 🔌 Explorando APIs REST e integraciones.
+- 🧩 Mejorando la arquitectura de aplicaciones, la calidad del código y la resolución de problemas.
+
+## 🌎 Idiomas
+
+- 🇦🇷 Español — Nativo
+- 🇨🇳 Chino mandarín — En aprendizaje
+
+---
+
+<div align="center">
+
+```text
+ /\_/\
+( =^.^= )  ¡Gracias por visitar mi perfil!
+ (")_(")
+
+  < 404: GATO NO ENCONTRADO />
+```
+
+**Hecho con código, curiosidad y muchos gatos.** 🐾
+
+</div>
