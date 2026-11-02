@@ -51,8 +51,6 @@ Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o b
 
 ## 🐾 Enfoque de desarrollo
 
-## 🐾 Enfoque de desarrollo
-
 - ⚙️ Desarrollo de software.
 - 💻 Creación de aplicaciones, herramientas y sistemas.
 - 🤖 Automatización de tareas y procesos.
