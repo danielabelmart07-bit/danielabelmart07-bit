@@ -17,9 +17,9 @@
 
 Soy desarrolladora enfocada en Backend y me apasiona la tecnología y el desarrollo de software.
 
-Trabajo desarrollando proyectos que combinan lógica, bases de datos y funcionalidades pensadas para resolver problemas reales.
+Desarrollo proyectos que combinan lógica, bases de datos y funcionalidades pensadas para resolver problemas reales.
 
-Me interesa especialmente el desarrollo de aplicaciones web, las APIs, la automatización de procesos y la construcción de herramientas útiles.
+Me interesa especialmente la creación de aplicaciones, sistemas y herramientas útiles, la automatización de procesos y la integración de servicios.
 
 Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o buscando inspiración para mi próximo proyecto. 🐈
 
@@ -49,12 +49,15 @@ Cuando no estoy programando, probablemente estoy dibujando, estudiando chino o b
 
 - 🇨🇳 Chino mandarín - En aprendizaje
 
-## 🌱 Actualmente
+## 🐾 Enfoque de desarrollo
 
-- 🐾 Desarrollando proyectos personales enfocados en Backend.
-- 🐾 Construyendo aplicaciones web con Python y Django.
-- 🐾 Trabajando con bases de datos, operaciones CRUD y gestión de información.
-- 🐾 Explorando APIs REST e integraciones.
+- ⚙️ Desarrollo de software enfocado en la funcionalidad y la resolución de problemas.
+- 💡 Creación de aplicaciones, herramientas y sistemas útiles.
+- 🤖 Automatización de tareas y procesos repetitivos.
+- 🗄️ Lógica de negocio, procesamiento y gestión de datos.
+- 🔌 Desarrollo de APIs e integración de servicios.
+- 🐍 Desarrollo Backend con Python y Django.
+- 🧩 Diseño y desarrollo de soluciones tecnológicas.
 
 ---
 
