@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-Soy desarrolladora enfocada en Backend y me apasiona la tecnología y el desarrollo de software.
+Soy desarrolladora con orientación Backend y me apasiona la tecnología y el desarrollo de software.
 
 Desarrollo proyectos que combinan lógica, bases de datos y funcionalidades pensadas para resolver problemas reales.
 
